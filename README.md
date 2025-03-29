@@ -21,8 +21,8 @@
 
 ### Features
 - Supports dynamic colors on A12+.
-- Supports downloads content
-- Login in your account
+- Supports Animations
+- Animation Colors
 - Watch history
 - Supports Picture-in-Picture mode.
 - [Material Design 3](https://m3.material.io/) Theme.
@@ -41,7 +41,7 @@
 - [Jsoup](https://jsoup.org/)
 
 ### NOTE
-THE CONTENT ON THIS APP IS NOT MINE NOR IS IT HOSTED BY ME OR THE APP. THESE BELONG TO THEIR RESPECTIVE OWNERS. This app just demostrates on how it is possible to build a app that can scrape websites and use their content.
+THE CONTENT ON THIS PROJS IS NOT MINE NOR IS IT HOSTED BY ME  build project 
 
 ### License
 AnitubeApp is licensed under the [GNU Affero General Public License v3.0](LICENSE.md).
