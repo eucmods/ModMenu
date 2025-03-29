@@ -6,7 +6,6 @@
 
 </div>
 
-ModMenu/img/img.png
 
 ### Screenshots
 
