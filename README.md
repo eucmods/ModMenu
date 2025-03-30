@@ -41,7 +41,7 @@
 - [Jsoup](https://jsoup.org/)
 
 ### NOTE
-THE CONTENT ON THIS PROJS IS MINE NOR IS IT HOSTED BY ME  build project 
+THE CONTENT ON THIS PROJS IS MINE IS IT HOSTED BY ME  build project 
 
 ### License
 AnitubeApp is licensed under the [GNU Affero General Public License v3.0](LICENSE.md).
