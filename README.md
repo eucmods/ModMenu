@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg"  width=100 height=100  align="center">
+<img width="" src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg"  width=200 height=200  align="center">
 
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Mod-blue?style=flat&logo=telegram)](https://t.me/eucmods)
