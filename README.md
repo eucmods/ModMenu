@@ -44,6 +44,6 @@
 THE CONTENT ON THIS PROJS IS MINE IS IT HOSTED BY ME  build project 
 
 ### License
-AnitubeApp is licensed under the [GNU Affero General Public License v3.0](LICENSE.md).
+CMODS is licensed under the [GNU Affero General Public License v3.0](LICENSE.md).
 
 Have any suggestions? Found a bug? Feel free to create an [issue](https://github.com/MrIKso/AnitubeApp/issues/new) with detailed description.
