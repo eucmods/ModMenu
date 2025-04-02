@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"  width=100 height=100  align="center">
+<img width="" src="app/src/main/assets/ic_off.png"  width=100 height=100  align="center">
+
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Mod-blue?style=flat&logo=telegram)](https://t.me/eucmods)
 
